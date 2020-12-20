@@ -12,7 +12,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "node src/app.js",
+    "start": "node src/App.js",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
